@@ -89,16 +89,6 @@ This measure calculates the percentage of profit generated from total sales.
 
 ---
 
-## Dashboard Preview
-
-Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard Screenshot](dashboard_screenshot.png)
-
----
-
 ## Conclusion
 
 This dashboard demonstrates the practical application of Power BI for business intelligence and data visualization. By combining KPIs, trend analysis, customer insights, and interactive filters, the dashboard provides a comprehensive view of organizational performance and supports informed decision-making.
